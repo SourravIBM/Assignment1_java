@@ -8,9 +8,9 @@ public class AddNum {
 
         System.out.println("Enter two numbers: " + first + " " + second);
         int sum = first + second;
-	
+	int prod = first * second;
 
         System.out.println("The sum is: " + sum);
-	
+	System.out.println("The product is: " + prod);
     }
 }
